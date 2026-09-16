@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "tag": "fundamentals",
+        "title": "Data Types",
+        "description": "Discover the magic of data types and unlock the power to speak the computer's language effortlessly",
+        "is_premium": false
+    },
+    {
+        "id": 2,
+        "tag": "fundamentals",
+        "title": "Data Structures",
+        "description": "Master data structures and become a data wizard, making your code smarter and more efficient",
+        "is_premium": false
+    },
+    {
+        "id": 3,
+        "tag": "fundamentals",
+        "title": "Conditional Statements",
+        "description": "Instructions for your programme, helping it do things based on whether certain conditions are true or false",
+        "is_premium": false
+    },
+    {
+        "id": 4,
+        "tag": "fundamentals",
+        "title": "Loops",
+        "description": "Python loops are like your personal robot helper, going through each item in a list or repeating a set of instructions until a specific condition is met",
+        "is_premium": false
+    },
+    {
+        "id": 14,
+        "tag": "mastery",
+        "title": "Functions",
+        "description": "Python function is a reusable block of code that performs a specific task or set of tasks",
+        "is_premium": false
+    },
+    {
+        "id": 5,
+        "tag": "mastery",
+        "title": "Algorithms",
+        "description": "Algorithms are step-by-step recipes that a computer can follow to solve a specific problem or perform a particular task",
+        "is_premium": false
+    },
+    {
+        "id": 6,
+        "tag": "mastery",
+        "title": "Advanced Data Structures",
+        "description": "Algorithms are step-by-step recipes that a computer can follow to solve a specific problem or perform a particular task",
+        "is_premium": false
+    },
+    
+  
+    {
+        "id": 9,
+        "tag": "mastery",
+        "title": "Best Practices",
+        "description": "Learn the best practices that make your code more readable, maintainable, and efficient",
+        "is_premium": false
+    },
+    {
+        "id": 12,
+        "tag": "hands-on",
+        "title": "API Development with Flask",
+        "description": "Create web services and APIs using the Flask web framework in Python.",
+        "is_premium": false
+    },
+    {
+        "id": 13,
+        "tag": "hands-on",
+        "title": "API Integration with Requests",
+        "description": "Utilize Python requests library to interact with external web services and APIs.",
+        "is_premium": false
+    },
+    {
+        "id": 11,
+        "tag": "hands-on",
+        "title": "Machine Learning Algorithms",
+        "description": "Algorithms and techniques used in the field of machine learning.",
+        "is_premium": false
+    },
+   
+]

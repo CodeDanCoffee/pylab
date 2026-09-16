@@ -1,0 +1,364 @@
+[
+    {
+        "id": 1,
+        "title": "String",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "Strings are like the words and sentences for computers. They let computers understand and work with text, just like you write a story or chat with friends online."
+    },
+    {
+        "id": 2,
+        "title": "Integer",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "Integers are the whole numbers in the computer world. They're like the building blocks for counting and doing math without any fractions or decimals."
+    },
+    {
+        "id": 3,
+        "title": "Float",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "Floats are like numbers with a twist. They can have decimals and help computers handle all kinds of math, even when things get a bit complicated."
+    },
+    {
+        "id": 5,
+        "title": "List",
+        "total_cards": 20,
+        "category_id": 2,
+        "description": "Lists are like collections of items for computers. They're handy when you have a bunch of things to keep track of, like your favorite books or songs."
+    },
+    {
+        "id": 6,
+        "title": "Tuple",
+        "total_cards": 20,
+        "category_id": 2,
+        "description": "Tuples are like special lists that can't be changed once they're made. They're great for holding important data that should stay the same."
+    },
+    {
+        "id": 7,
+        "title": "Bool",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "Bools are like the decision-makers for computers. They can be either true or false, helping computers make choices and decisions."
+    },
+    {
+        "id": 15,
+        "title": "Datetime",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "Imagine if your code could travel through time and manipulate dates and times effortlessly. Well, that's precisely what Python's datetime module offers."
+    },
+    {
+        "id": 11,
+        "title": "Range",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "Ranges are like counting tools for computers. They make it easy to loop through numbers and do repetitive tasks."
+    },
+    {
+        "id": 8,
+        "title": "Dictionaries",
+        "total_cards": 20,
+        "category_id": 2,
+        "description": "Dictionaries are like word lookup tables for computers. They help you find information quickly, just like a real dictionary."
+    },
+    {
+        "id": 9,
+        "title": "Set",
+        "total_cards": 20,
+        "category_id": 2,
+        "description": "Sets are like unique clubs for data. They only let in one of each item, so it's perfect for finding unique values in a sea of data."
+    },
+    
+    {
+        "id": 14,
+        "title": "None",
+        "total_cards": 20,
+        "category_id": 1,
+        "description": "None is like a special placeholder in Python. It's used to represent the absence of a value or when you're not sure what to put in a variable."
+    },
+    
+    {
+        "id": 16,
+        "title": "The if Statement",
+        "total_cards": 20,
+        "category_id": 3,
+        "description": "The 'if' statement helps your code make choices based on conditions. Your code can be as smart as a detective!"
+    },
+    {
+        "id": 17,
+        "title": "The if-else Statement",
+        "total_cards": 20,
+        "category_id": 3,
+        "description": "When the 'if' statement isn't true, the 'else' statement steps in and says, 'I'll handle this!' It's the backup plan."
+    },
+    {
+        "id": 18,
+        "title": "The if-elif-else Statement",
+        "total_cards": 20,
+        "category_id": 3,
+        "description": "The 'elif' statement is like a second opinion for your code. It checks another condition if the first one doesn't work."
+    },
+    {
+        "id": 19,
+        "title": "Nested if Statements",
+        "total_cards": 20,
+        "category_id": 3,
+        "description": "Nested 'if' statements are like Russian dolls. You open one, and there's another inside. It's codeception!"
+    },
+    {
+        "id": 20,
+        "title": "Switch-Case (or match in Python 3.10+)",
+        "total_cards": 20,
+        "category_id": 3,
+        "description": "Switch-case is like a choose-your-own-adventure book for your code. It's the way Python makes decisions in style!"
+    },
+    {
+        "id": 21,
+        "title": "For Loop",
+        "total_cards": 20,
+        "category_id": 4,
+        "description": "A 'for' loop in Python iterates over a sequence, performing actions for each item."
+    },
+    {
+        "id": 22,
+        "title": "Range-Based Loop",
+        "total_cards": 20,
+        "category_id": 4,
+        "description": "A range-based loop uses 'range()' to iterate over a sequence of numbers efficiently."
+    },
+    {
+        "id": 23,
+        "title": "While Loop",
+        "total_cards": 20,
+        "category_id": 4,
+        "description": "A 'while' loop continues executing as long as a specified condition is true."
+    },
+    {
+        "id": 24,
+        "title": "Nested Loop",
+        "total_cards": 20,
+        "category_id": 4,
+        "description": "A nested loop is a loop inside another loop, useful for complex iterations."
+    },
+    {
+        "id": 25,
+        "title": "Break and Continue",
+        "total_cards": 20,
+        "category_id": 4,
+        "description": "Break exits a loop prematurely, while continue skips the current iteration."
+    },
+    {
+        "id": 26,
+        "title": "User Defined Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "User-defined functions are functions that you create yourself, giving them a name and defining their behavior to perform specific tasks."
+    },
+    {
+        "id": 27,
+        "title": "Lambda Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Lambda function is a concise way to create small, anonymous functions for simple, one-off operations without the need for a formal function definition."
+    },
+    {
+        "id": 28,
+        "title": "Recursive Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Function that calls itself in order to solve a problem by repeatedly applying the same logic."
+    },
+    {
+        "id": 29,
+        "title": "Higher Order Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Function that takes one or more functions as arguments or returns a function as its result. It enables more flexible and dynamic programming."
+    },
+    {
+        "id": 30,
+        "title": "Decorator Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Function that allows you to modify or extend the behavior of other functions or methods without changing their source code."
+    },
+    {
+        "id": 31,
+        "title": "Generator Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Generator Function is a special type of function that allows you to create an iterable sequence of values on-the-fly."
+    },
+    {
+        "id": 32,
+        "title": "Error Handling in Function",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Error handling in functions involves dealing with exceptions or errors that may occur during the execution of a function."
+    },
+    {
+        "id": 33,
+        "title": "Function Best Practices",
+        "total_cards": 20,
+        "category_id": 14,
+        "description": "Best practices for writing functions in Python are important for producing clean, readable, maintainable, and efficient code."
+    },
+    {
+        "id": 34,
+        "title": "Sorting Algorithms",
+        "total_cards": 20,
+        "category_id": 5,
+        "description": "Sorting algorithms are methods or sets of instructions used to arrange a collection of data or elements in a specific order, such as ascending or descending order."
+    },
+    {
+        "id": 35,
+        "title": "Searching Algorithms",
+        "total_cards": 20,
+        "category_id": 5,
+        "description": "Searching algorithms are essential techniques for finding specific elements or data within a collection, such as lists or arrays, efficiently and effectively."
+    },
+    {
+        "id": 36,
+        "title": "Graph Algorithms",
+        "total_cards": 20,
+        "category_id": 5,
+        "description": "Graph algorithms provide methods and strategies for solving problems related to graphs, which consist of nodes and edges, using various algorithms and techniques."
+    },
+    {
+        "id": 38,
+        "title": "Numerical Algorithms",
+        "total_cards": 20,
+        "category_id": 5,
+        "description": "Numerical algorithms are mathematical techniques and methods used to solve numerical problems, such as solving equations, optimization, and numerical simulations."
+    },
+    {
+        "id": 39,
+        "title": "Dynamic Programming Algorithms",
+        "total_cards": 20,
+        "category_id": 5,
+        "description": "Dynamic programming algorithms are a powerful method for solving complex problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations."
+    },
+    {
+        "id": 40,
+        "title": "Stack",
+        "total_cards": 20,
+        "category_id": 6,
+        "description": "A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle."
+    },
+    {
+        "id": 41,
+        "title": "Queue",
+        "total_cards": 20,
+        "category_id": 6,
+        "description": "A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle."
+    },
+    {
+        "id": 42,
+        "title": "Linked List",
+        "total_cards": 20,
+        "category_id": 6,
+        "description": "A linked list is a data structure made of nodes, where each node points to the next one."
+    },
+    {
+        "id": 43,
+        "title": "Binary Tree",
+        "total_cards": 20,
+        "category_id": 6,
+        "description": "A binary tree is a hierarchical data structure with nodes having at most two children."
+    },
+    {
+        "id": 44,
+        "title": "Heap",
+        "total_cards": 20,
+        "category_id": 6,
+        "description": "A heap is a specialized tree-based data structure that satisfies the heap property."
+    },
+    {
+        "id": 45,
+        "title": "Hash Table",
+        "total_cards": 20,
+        "category_id": 6,
+        "description": "A hash table is a data structure that uses a hash function to map keys to values."
+    },
+    {
+        "id": 46,
+        "title": "Code Formatting and Style",
+        "total_cards": 20,
+        "category_id": 9,
+        "description": "Master the art of code formatting and style for clean, readable, and elegant code."
+    },
+    {
+        "id": 47,
+        "title": "Naming Conventions",
+        "total_cards": 20,
+        "category_id": 9,
+        "description": "Navigate the world of naming conventions and choose meaningful names for your Python elements."
+    },
+    {
+        "id": 48,
+        "title": "The Zen of Python",
+        "total_cards": 20,
+        "category_id": 9,
+        "description": "The Zen of Python encourages Python programmers to write code that is clear, elegant, and easy to understand."
+    },
+    {
+        "id": 49,
+        "title": "Flask with MongoDB",
+        "total_cards": 20,
+        "category_id": 12,
+        "description": "Configuring and managing databases in Flask applications."
+    },
+    {
+        "id": 50,
+        "title": "Flask REST API Endpoints",
+        "total_cards": 20,
+        "category_id": 12,
+        "description": "Creating RESTful API endpoints with Flask for data interaction."
+    },
+    {
+        "id": 51,
+        "title": "Flask CRUD Operations",
+        "total_cards": 20,
+        "category_id": 12,
+        "description": "Implementing Create, Read, Update, and Delete operations in Flask."
+    },
+    {
+        "id": 52,
+        "title": "Restful API Integration",
+        "total_cards": 20,
+        "category_id": 13,
+        "description": "Integrate external APIs with Python using the requests library for data retrieval."
+    },
+    {
+        "id": 53,
+        "title": "Authorization",
+        "total_cards": 20,
+        "category_id": 13,
+        "description": "Secure your application by managing user access and permissions with authentication."
+    },
+    {
+        "id": 54,
+        "title": "Error Handling and Status Codes",
+        "total_cards": 20,
+        "category_id": 13,
+        "description": "Efficiently manage HTTP status codes for error handling in your web applications."
+    },
+    {
+        "id": 55,
+        "title": "Machine Learning Algorithms",
+        "total_cards": 20,
+        "category_id": 11,
+        "description": "Algorithms and techniques used in the field of machine learning"
+    },
+    {
+        "id": 56,
+        "title": "Flask SQLAlchemy",
+        "total_cards": 20,
+        "category_id": 12,
+        "description": "ORM library to Simplify database operations."
+    },
+    
+    
+    
+]

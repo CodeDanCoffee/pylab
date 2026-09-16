@@ -1,0 +1,42 @@
+{
+  "originHash" : "97c8276134327e457f9a9e794620fb0dba99e8890131c7f98d178daa58d35d82",
+  "pins" : [
+    {
+      "identity" : "highlightswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/QuantMis/HighlightSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bcb002cc030a74cefab708571b62f794a65734d8"
+      }
+    },
+    {
+      "identity" : "purchases-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RevenueCat/purchases-ios.git",
+      "state" : {
+        "revision" : "5f7fa0b5c3324ae763365c08e61f29692d18454b",
+        "version" : "4.44.2"
+      }
+    },
+    {
+      "identity" : "wishkit-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wishkit/wishkit-ios.git",
+      "state" : {
+        "revision" : "843e98b4517729212f62963eb7d250c9cb10bf33",
+        "version" : "4.9.0"
+      }
+    },
+    {
+      "identity" : "wishkit-ios-shared",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wishkit/wishkit-ios-shared.git",
+      "state" : {
+        "revision" : "cd184932bcdbdc8766137ef8ecac63c424be93a7",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
